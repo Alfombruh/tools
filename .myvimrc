@@ -1,0 +1,8 @@
+syntax on
+set sidescroll=1
+set nowrap
+set	number
+set	autoindent
+set	showmatch
+set mouse=a
+set clipboard=unnamed
